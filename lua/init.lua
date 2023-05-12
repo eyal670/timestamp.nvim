@@ -1,5 +1,6 @@
 -- timestamp.lua
 
+print('timestamp installed');
 local timestamp = {}
 
 function timestamp.setup()
